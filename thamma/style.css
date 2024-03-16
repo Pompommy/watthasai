@@ -1,0 +1,34 @@
+a:link {
+	color: #006600;
+	text-decoration: none;
+	font-family: "MS Sans Serif", "Microsoft Sans Serif";
+
+
+
+
+}
+a:visited {
+	color: #999999;
+	text-decoration: none;
+	font-family: "MS Sans Serif", "Microsoft Sans Serif";
+
+
+}
+a:hover {
+	color: #CC6600;
+	text-decoration: underline;
+	font-family: "MS Sans Serif", "Microsoft Sans Serif";
+
+
+
+}
+a:active {
+	color: #FF9900;
+	text-decoration: none;
+	font-family: "MS Sans Serif", "Microsoft Sans Serif";
+
+
+}
+table {
+	font-family: "MS Sans Serif", "Microsoft Sans Serif";
+}
